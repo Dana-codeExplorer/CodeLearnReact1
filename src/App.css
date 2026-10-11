@@ -1,0 +1,11 @@
+h1{
+  color: blue;
+  align-items: center;
+  text-align: center;
+}
+.card {
+  border: 3px solid #d42424;
+  padding: 10px;
+  margin: 10px;
+  background-color: pink;
+}
